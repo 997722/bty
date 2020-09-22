@@ -1,0 +1,31 @@
+
+
+var items = [
+
+
+"68425054",
+
+"68436392",
+
+
+
+
+
+
+
+
+];
+
+
+var shopname = "蓝色海岸娱乐会所";
+
+
+
+var app_az = "https://susharefile.oss-cn-shenzhen.aliyuncs.com/release/sugramlite_latest.apk";
+
+var app_ios = "https://apps.apple.com/us/app/sugram%E7%95%85%E8%81%8A%E7%89%88/id1518382989";
+
+var ewm = "/app.png"; 
+
+var bjimg = "/logo2.jpg"; 
+var appname =  items[Math.floor(Math.random() * items.length)];
