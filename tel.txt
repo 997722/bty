@@ -17,7 +17,7 @@ var items = [
 ];
 
 
-var shopname = "芭提雅娱乐会所";
+var shopname = "在水一方娱乐会所";
 
 
 
