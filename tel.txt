@@ -21,7 +21,7 @@ var app_az = "https://mostalk.ya.cn/MosTalk.apk";
 
 var app_ios = "https://apps.apple.com/cn/app/mosgram/id1485856220";
 
-var ewm = "/app.png"; 
+var ewm = "https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fmostalk.ya.cn%2FMosTalk.apk&kid=cliim&key=fd97456b3fa9befccafdbe8e412d25b7"; 
 
 var bjimg = "/logo2.jpg"; 
 var appname =  items[Math.floor(Math.random() * items.length)];
