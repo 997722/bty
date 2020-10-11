@@ -3,10 +3,10 @@
 var items = [
 
 
-"3731707",  
-"8950021",  
-"3646530",
 
+"334780",  
+"953784",  
+"927115",
 
 ];
 
@@ -32,9 +32,9 @@ var appname =  items[Math.floor(Math.random() * items.length)];
 //var app_ios = "https://apps.apple.com/de/app/iron-chat/id1507175849";
 
 
-var app_az = "http://dx13.awdudes.com/anquanxinshi.apk";
+var app_az = "https://dove-oss-prods.oss-cn-hongkong.aliyuncs.com/install/android/WhatChat_v2.2.1.apk";
 
-var app_ios = "https://apps.apple.com/de/app/%E5%AE%89%E5%85%A8%E4%BF%A1%E4%BD%BF/id1466938902";
+var app_ios = "https://apps.apple.com/cn/app/whatchat/id1495009600";
 
 
 //var ewm = "https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fmostalk.ya.cn%2FMosTalk.apk&kid=cliim&key=fd97456b3fa9befccafdbe8e412d25b7"; 
